@@ -37,7 +37,7 @@ Maintainer: Kingsauto <kingsauto10@gmail.com>
 Author: Apolo86 <kingsauto10@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
-Filename: ./Debs/hookkeyboard.deb
+Filename: ./Debs/com.kingsauto10.hookkeyboard_9.1_iphoneos-arm.deb
 Size: 331782
 MD5sum: 675bc57b0ce9aa830dfdda322457179c
 Depends: mobilesubstrate
@@ -77,8 +77,8 @@ Name: wTabwData72
 Version: 0.0.1-50
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak for Kingsauto!
-Maintainer: Kingsauto.github.io/10
-Author: Kingsauto.github.io/10
+Maintainer: Kingsauto.github.io/72
+Author: Kingsauto.github.io/72
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/com.kingsauto10.wTabwData72_0.0.1-50_iphoneos-arm.deb
@@ -91,8 +91,8 @@ Name: wTabwData73
 Version: 0.0.2-4
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak for Kingsauto!
-Maintainer: Kingsauto.github.io/10
-Author: Kingsauto.github.io/10
+Maintainer: Kingsauto.github.io/72
+Author: Kingsauto.github.io/72
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/com.kingsauto10.wTabwData73_0.0.2-4_iphoneos-arm.deb
@@ -106,7 +106,7 @@ Version: 0.11-1
 Architecture: iphoneos-arm
 Description: ByPass SSL certificate - within iOS 9.2.1-10.3.3 Kingsauto!
 Maintainer: Kingsauto <kingsauto10@gmail.com>
-Author: Kingsauto.github.io/10
+Author: Kingsauto.github.io/72
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/com.kingsauto10.SSLKillSwitch2_0.11-1_iphoneos-arm.deb
@@ -119,7 +119,7 @@ Name: Remover
 Version: 1.0.3
 Architecture: iphoneos-arm
 Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
-Maintainer: pwn20wnd (Kingsauto.github.io/10)
+Maintainer: pwn20wnd (Kingsauto.github.io/72)
 Author: pwn20wnd & coolstarorg
 Sponsor: GitHub.com <github.com>
 Section: Utility
