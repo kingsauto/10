@@ -37,7 +37,7 @@ Maintainer: Kingsauto <kingsauto10@gmail.com>
 Author: Apolo86 <kingsauto10@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
-Filename: ./Debs/hookkeyboard.deb
+Filename: ./Debs/com.kingsauto10.hookkeyboard_9.1_iphoneos-arm.deb
 Size: 331782
 MD5sum: 675bc57b0ce9aa830dfdda322457179c
 Depends: mobilesubstrate
@@ -66,7 +66,7 @@ Maintainer: Kingsauto <kingsauto10@gmail.com>
 Author: Lunatik <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
-Filename: ./Debs/xcon_42beta1.deb
+Filename: ./Debs/com.kingsauto10.xcon_42~beta1_iphoneos-arm.deb
 Size: 141906
 MD5sum: 724fecdb2581ea535950d0abedadce70
 Depends: mobilesubstrate, firmware (<= 10.2.1)
