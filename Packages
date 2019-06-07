@@ -1,0 +1,128 @@
+Package: com.kingsauto10.autolead
+Name: autolead
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Kingsauto for IOS Model 9.2.1 - 10.3.3
+Maintainer: Kingsauto <Kingsauto10@gmail.com>
+Author: Apolo86 <Kingsauto73@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./Debs/com.kingsauto10.autolead_0.1_iphoneos-arm.deb
+Size: 243068
+MD5sum: 67236072f4338fab91dca9ca9beb35ef
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,com.kingsauto10.SSLKillSwitch2,com.kingsauto10.xcon,com.kingsauto10.hookkeyboard,com.kingsauto10.icontool,com.kingsauto10.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+
+Package: com.kingsauto10.icontool
+Name: Icon Tool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Maintainer: Kingsauto <kingsauto10@gmail.com>
+Author: Apolo86 <kingsauto10@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/com.kingsauto10.icontool_1.9-5k_iphoneos-arm.deb
+Size: 384378
+MD5sum: af0b48bcc3c850e3add1e2e34abcc527
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+
+Package: com.kingsauto10.hookkeyboard
+Name: hookkeyboard
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
+Maintainer: Kingsauto <kingsauto10@gmail.com>
+Author: Apolo86 <kingsauto10@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/hookkeyboard.deb
+Size: 331782
+MD5sum: 675bc57b0ce9aa830dfdda322457179c
+Depends: mobilesubstrate
+
+Package: com.kingsauto10.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: Kingsauto <kingsauto10@gmail.com>
+Author: Cunstuck <kingsauto10@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/com.kingsauto10.locationfaker8910_2.0k_iphoneos-arm.deb
+Size: 551072
+MD5sum: 2ecdc8d6cf03f15c389a5bbc8c2d40db
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.kingsauto10.xcon
+Name: xCon
+Version: 42~beta1
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Maintainer: Kingsauto <kingsauto10@gmail.com>
+Author: Lunatik <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/xcon_42beta1.deb
+Size: 141906
+MD5sum: 724fecdb2581ea535950d0abedadce70
+Depends: mobilesubstrate, firmware (<= 10.2.1)
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
+
+Package: com.kingsauto10.wTabwData72
+Name: wTabwData72
+Version: 0.0.1-50
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak for Kingsauto!
+Maintainer: Kingsauto.github.io/72
+Author: Kingsauto.github.io/72
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/com.kingsauto10.wTabwData72_0.0.1-50_iphoneos-arm.deb
+Size: 36082
+MD5sum: 44d17e443b48f562fe95dc46e9780915
+Depends: mobilesubstrate
+
+Package: com.kingsauto10.wTabwData73
+Name: wTabwData73
+Version: 0.0.2-4
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak for Kingsauto!
+Maintainer: Kingsauto.github.io/72
+Author: Kingsauto.github.io/72
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/com.kingsauto10.wTabwData73_0.0.2-4_iphoneos-arm.deb
+Size: 41362
+MD5sum: e459359ac393dffdd3a50d75b7830721
+Depends: mobilesubstrate
+
+Package: com.kingsauto10.SSLKillSwitch2
+Name: SSL Kill Switch 2
+Version: 0.11-1
+Architecture: iphoneos-arm
+Description: ByPass SSL certificate - within iOS 9.2.1-10.3.3 Kingsauto!
+Maintainer: Kingsauto <kingsauto10@gmail.com>
+Author: Kingsauto.github.io/72
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/com.kingsauto10.SSLKillSwitch2_0.11-1_iphoneos-arm.deb
+Size: 10102
+MD5sum: 6789695b299de46142be4fe10cda2a59
+Depends: mobilesubstrate, preferenceloader
+
+Package: com.kingsauto10.remover103
+Name: Remover
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
+Maintainer: pwn20wnd (Kingsauto.github.io/72)
+Author: pwn20wnd & coolstarorg
+Sponsor: GitHub.com <github.com>
+Section: Utility
+Filename: ./Debs/com.kingsauto10.remover103_1.0.3_iphoneos-arm.deb
+Size: 198242
+MD5sum: 5f364e39b7058ecc58fcc097b9a60526
